@@ -1,6 +1,5 @@
 # hello-world
 
 Ciao a tutti! i'm Enrico
-Questo é un altro branch della repository "hello-world", ossia un'altra versione dello stesso progetto. Cambiando questo file non
-modificheremo il file del branch principale "main". 
+This is another branch of "hello-world" repository, or another version of the same project. Changing this file we wont changing our definitive branch "main".
 
